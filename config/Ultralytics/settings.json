@@ -1,0 +1,19 @@
+{
+  "settings_version": "0.0.8",
+  "datasets_dir": "D:\\Python\\Microsoft VS Code\\datasets",
+  "weights_dir": "weights",
+  "runs_dir": "runs",
+  "uuid": "c2c0bfdb558635d8bd664153731209b81c65445165caa303ad2766548359da2d",
+  "sync": true,
+  "api_key": "",
+  "openai_api_key": "",
+  "clearml": true,
+  "comet": true,
+  "dvc": true,
+  "mlflow": true,
+  "raytune": true,
+  "tensorboard": false,
+  "wandb": false,
+  "vscode_msg": true,
+  "openvino_msg": true
+}
